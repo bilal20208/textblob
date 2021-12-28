@@ -1,5 +1,6 @@
 
 TextBlob: Simplified Text Processing
+Same TextBlob language fixed
 ====================================
 
 .. image:: https://badgen.net/pypi/v/TextBlob
